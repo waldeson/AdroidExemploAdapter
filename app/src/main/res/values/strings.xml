@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pedidos</string>
+
+    <string name="text_id">ID</string>
+    <string name="text_cliente">Cliente</string>
+    <string name="text_data">Data</string>
+    <string name="text_produto">Produto</string>
+    <string name="text_valor">Valor</string>
+
+    <string name="edit_nomeproduto">Nome do produto</string>
+    <string name="edit_quantidade_produto">Quantidade</string>
+    <string name="edit_preco_produto">Valor</string>
+
+
+    <string name="hint_id">ID</string>
+    <string name="hint_cliente">Cliente</string>
+    <string name="hint_data">Data</string>
+    <string name="hint_produto">Produto</string>
+    <string name="hint_valor">Valor</string>
+
+    <string name="button_clic">Adicionar</string>
+    <string name="btn_produto">Salvar</string>
+    <string name="title_activity_produtos">Produtos</string>
+
+</resources>
